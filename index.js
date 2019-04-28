@@ -17,3 +17,5 @@ function add_amend(){
 //this should be on first branch
 
 //switching branch with uncommmit and creating merge conflicts to be tested.
+
+// switching done for .
