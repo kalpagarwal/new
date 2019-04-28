@@ -15,3 +15,5 @@ function add_amend(){
 //this is just my final comment for reset command.
 
 //this should be on first branch
+
+//switching branch with uncommmit.
