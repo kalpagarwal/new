@@ -16,4 +16,4 @@ function add_amend(){
 
 //this should be on first branch
 
-//switching branch with uncommmit.
+//switching branch with uncommmit and creating merge conflicts.
