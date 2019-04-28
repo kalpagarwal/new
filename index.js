@@ -1,5 +1,5 @@
 function dothis() {
-    console.log('hello worrld');
+    console.log('hello worrld for master');
     //this change is not needed
 }
 function next(){
