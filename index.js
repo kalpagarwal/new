@@ -19,3 +19,4 @@ function add_amend(){
 //switching branch with uncommmit and creating merge conflicts to be tested.
 
 // switching  .
+//line added for merge conflict.
