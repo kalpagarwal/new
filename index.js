@@ -13,3 +13,4 @@ function add_amend(){
 //this command is also for the demostration for the reset command .
 
 //this is just my final comment for reset command.
+//added this
