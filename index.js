@@ -8,6 +8,10 @@ function next(){
 function add_amend(){
     alert();
 }
+function remove(){
+    return false;
+    
+}
 //i have added this line to demostrate rest command
 
 //this command is also for the demostration for the reset command .
